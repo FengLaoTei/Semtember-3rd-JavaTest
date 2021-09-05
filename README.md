@@ -1,4 +1,4 @@
-# Semtember-3rd-JavaTest
+# September-3th-JavaTest
 number games
 //一个有关数字的21点游戏。在0-21中获得随机数，距离21越近的人获胜。
 //游戏规则为：玩家与电脑每人分配一次随机数。玩家可以根据第一次的点数大小自行选择是否继续第二次获得分数
